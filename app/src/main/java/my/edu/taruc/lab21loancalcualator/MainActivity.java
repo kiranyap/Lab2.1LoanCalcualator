@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         carPrice = Double.parseDouble(editTextCarPrice.getText().toString());
         downPayment = Double.parseDouble(editTextDownPayment.getText().toString());
         interestRate = Double.parseDouble(editTextInterestRate.getText().toString());
-        
+
 
 
         //passing data using putExtra method
